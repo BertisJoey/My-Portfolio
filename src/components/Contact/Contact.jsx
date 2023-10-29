@@ -46,7 +46,7 @@ export default function Contact() {
                             aria-describedby="basic-addon1"
                         />
                     </InputGroup>
-                    <input class="btn btn-primary" type="submit" value="Submit"></input>
+                    <input className="btn btn-primary" type="submit" value="Submit"></input>
                 </div>
 
             </div>
