@@ -1,0 +1,11 @@
+.nav {
+    justify-content: end;
+}
+
+.nav-item {
+    background-color: mediumturquoise;
+}
+
+.nav-link-active {
+    background-color:mediumturquoise;
+}

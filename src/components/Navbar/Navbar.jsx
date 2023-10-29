@@ -1,14 +1,15 @@
 import { Link, useLocation } from 'react-router-dom';
 import Header from '../Header/Header';
+import './Navbar.css';
 
 function Navbar() {
     const currentPage = useLocation().pathname;
   
     return (
-        <div>
+        <div className="bg-info">
         <Header />
-            <ul className="nav nav-tabs">
-                <li className="nav-item">
+            <ul className="nav nav-tabs col align-items-end">
+                <li className="nav-item align-items-end">
                 <Link
                     to="/"
                     className={currentPage === '/' ? 'nav-link active' : 'nav-link'}
