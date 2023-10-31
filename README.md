@@ -1,8 +1,13 @@
-# React + Vite
+# My Portfolio
+This site was created to document and share my projects
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+I used react and react-bootstrap to create an interactive website where I am able to add all of my projects so far and add any future projects to share with interested parties
 
-Currently, two official plugins are available:
+## Using the Website
+You can find a link to the website here:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Below you can see a screenshot of the first page, there are different tabs that are self explanatory, and links to my projects and different ways to contact me
+
+## License
+You can find the license in the root of this repository
