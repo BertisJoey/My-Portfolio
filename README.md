@@ -8,6 +8,7 @@ I used react and react-bootstrap to create an interactive website where I am abl
 You can find a link to the website here: https://peaceful-basbousa-4b4034.netlify.app/
 
 Below you can see a screenshot of the first page, there are different tabs that are self explanatory, and links to my projects and different ways to contact me
+![Home Page](src/assets/screenshot-about.png)
 
 ## License
 You can find the license in the root of this repository
